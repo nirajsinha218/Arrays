@@ -18,7 +18,7 @@ public class ArrayRotation {
 	}
 
 	public static void main(String[] args) {
-		int arr[] = { 1, 2, 3, 4, 5, 6, 7 };
+		int arr[] = { 1, 2, 3, 4, 5, 6, 7, 8 };
 		int rotateBy = 15;
 		int arraySize = arr.length;
 		arr = rotate(arr, rotateBy, arraySize);
